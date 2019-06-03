@@ -19,6 +19,28 @@
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.17.0",
+    "mysql": "^2.17.1",
     "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-es2017-node7": "^0.5.2",
+    "babel-preset-react": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "browser-sync": "^2.26.5",
+    "del": "^4.1.1",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-file-cache": "0.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-nodemon": "^2.4.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "gulp-webpack": "^1.5.0"
   }
 }
